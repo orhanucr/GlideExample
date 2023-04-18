@@ -20,3 +20,6 @@
 <p><code>into()</code> -> Resmin yükleneceği imageView.</p>
 
 <h2>Uygulama Ekran Görüntüsü</h2>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/100219838/232799683-db1d43e0-b05a-474b-a1d4-e2db08b56a19.png" width="30%" />
+</p>
